@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Diagonal_Difference",
+            "request": "launch",
+            "mainClass": "Diagonal_Difference",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Search",
+            "request": "launch",
+            "mainClass": "Binary_Search",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "Insert_End_Array",
+            "request": "launch",
+            "mainClass": "Insert_End_Array",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "Insert_At_Array",
+            "request": "launch",
+            "mainClass": "Insert_At_Array",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "Insert_Start_Array",
+            "request": "launch",
+            "mainClass": "Insert_Start_Array",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Words",
+            "request": "launch",
+            "mainClass": "Reverse_Words",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_String",
+            "request": "launch",
+            "mainClass": "Reverse_String",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "Palindrom_String",
+            "request": "launch",
+            "mainClass": "Palindrom_String",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FirstClass",
+            "request": "launch",
+            "mainClass": "FirstClass",
+            "projectName": "java_projects_84d29a81"
+        }
+    ]
+}
