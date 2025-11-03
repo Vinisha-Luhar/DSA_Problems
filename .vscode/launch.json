@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayLeaders",
+            "request": "launch",
+            "mainClass": "ArrayLeaders",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "DataTypes",
+            "request": "launch",
+            "mainClass": "DataTypes",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "NumberLineJumps",
+            "request": "launch",
+            "mainClass": "NumberLineJumps",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "AppleAndOranges",
+            "request": "launch",
+            "mainClass": "AppleAndOranges",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "RightPyramidPattern",
+            "request": "launch",
+            "mainClass": "RightPyramidPattern",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "GradingStudents",
+            "request": "launch",
+            "mainClass": "GradingStudents",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "TimeConversion",
+            "request": "launch",
+            "mainClass": "TimeConversion",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
+            "name": "PlusMinus",
+            "request": "launch",
+            "mainClass": "PlusMinus",
+            "projectName": "java_projects_84d29a81"
+        },
+        {
+            "type": "java",
             "name": "Diagonal_Difference",
             "request": "launch",
             "mainClass": "Diagonal_Difference",
